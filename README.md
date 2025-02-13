@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Deshmukh</h1>
 <h3 align="center">A passionate Network Engineer from India</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/0e/4a/c3/0e4ac37acbff81cd087aa19692a07a9d.gif" alt="a man" width="400">
+<img align="right" src="https://github.com/vishaldeshmukh1/vishaldeshmukh1/blob/main/_b8239770-a239-4b28-86d7-51e78eda25a8.jpeg" alt="a man" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldeshmukh1&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldeshmukh1" /> </p>
